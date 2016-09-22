@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<application id="SegmentApp" name="SegmentApp">
+    <container isflex="false" displayname="Form" id="frmHome" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSegDictionary" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSegPageView" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSegSearchBy" type="form"/>
+    <container isflex="false" displayname="Popup" id="rowPage1" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowPage2" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowPage3" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowSecDic" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowSegBtnContext" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowSegColAndExp" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowSegEdit" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="rowSegTwoItems" type="dialog"/>
+    <container isflex="false" displayname="Popup" id="secSegDic" type="dialog"/>
+    <container isflex="false" displayname="Form" id="frmButtonContext" type="form"/>
+    <container isflex="false" displayname="Form" id="frmOneRowTwoItems" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSegColAndExp" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSegGestures" type="form"/>
+    <container isflex="false" displayname="Form" id="frmSegRowEdit" type="form"/>
+    <globalsequences/>
+    <skins/>
+</application>
