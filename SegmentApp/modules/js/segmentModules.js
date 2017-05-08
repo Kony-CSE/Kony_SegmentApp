@@ -1,6 +1,6 @@
 /*
  * This function used to set the masterdata to the segment
- * Written By :Mohammad Jabiulla
+ * Written By :Mohammad Jabiulla Kony
  */
 function buttonContext2()
 {
